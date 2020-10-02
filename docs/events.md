@@ -34,3 +34,5 @@ Sangam, IIITB’s annual Alumni Day is organized by the placement and outreach t
 
 ![](images/events/sangam_2.JPG)
 
+##Umang
+Umang , IIITB's annual inter college sports tournament is organized by sports Committee in the month of february. It involves many teams competing against each other in sports like basketball (men and women) , football (men) , volleyball (men) , throwball (Women) for amazing CASH PRIZES and trophies. Like all other events students volunteer to make this event a huge success. The event is throughly enjoyed by all the students of IIITB and from different colleges as well.
