@@ -53,14 +53,13 @@ programme, I finish one year early.**
 
 3. **What have been the placements of students from IIIT Bangalore?**
 
-    The third iMTech batch passed out in 2019 and the placement statistics
-    The packages for the iMTech 2019 batch were:
+    Placement statistics for 2020.
 
-    **Max package : 54 LPA (Rubrik)**
+    **Max package : 43.31 LPA **
 
-    **Average package : 19 LPA**
+    **Average package : 24.88 LPA**
 
-    **Median package : 17 LPA**
+    **Median package : 23.84 LPA**
 
     For more info, please visit <a href="https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports" target="_blank">Annual Placement Reports</a>.
 
